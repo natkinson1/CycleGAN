@@ -8,4 +8,4 @@ In this repository we train 2 generators:
 
 Firstly, we define two models, the generator and the discriminator which will be used for the 2 GAN's in the CycleGAN.
 
-Once you have trained the network in the Jupyter Notebook, one can then use the script to apply the model to any image of choice.
+Once you have trained the network in the Jupyter Notebook, one can then use the ```photo2painting.py``` script to apply the model to any image of choice.
